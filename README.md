@@ -1,7 +1,7 @@
 # Atividade 1 - Documentação para configuração de Acesso remoto e Firewall (SSH e UFW)
 
 **Disciplina:** Gerência e Configuração de Serviços para Internet (GCSI)  
-**Aluno:** Julio Soares da Silva   
+**Aluno:** Júlio Soares da Silva   
 **Ambiente:** Docker com imagem Ubuntu 26.04 LTS
 
 ---
